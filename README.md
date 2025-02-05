@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharath G</h1>
-<h3 align="center">🚀 Aspiring AI Engineer | CSE '25 | Innovator & Problem Solver 🔍 Building Scalable Tech | AI, FinTech & Beyond 👨‍💻 Code. Create. Conquer. |</h3>
+<h3 align="center">🚀 Aspiring Computer science Engineer | CSE '25 | Innovator & Problem Solver 🔍 Building Scalable Tech | AI, FinTech & Beyond 👨‍💻 Code. Create. Conquer. |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roronoabharath&label=Profile%20views&color=0e75b6&style=flat" alt="roronoabharath" /> </p>
 
